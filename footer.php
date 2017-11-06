@@ -111,7 +111,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 	<footer class="site-info" itemtype="http://schema.org/WPFooter" itemscope="itemscope">
 		<div class="inside-site-info grid-container grid-parent">
 			<p class="inside-site-info-lojasdomago-info">
-				Rua José Pedro Strasburg Júnior, 261, Jardim Itália, Itapetininga, São Paulo. CNPJ: 17.393.329/0001-62
+				de Itapetininga, interior de São Paulo, para todo o Brasil
 				<br />www.lojasdomago.com.br
 				<!--p>Terms and Usage</p-->
 			</p>

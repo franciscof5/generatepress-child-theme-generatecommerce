@@ -10,6 +10,11 @@ Version:        0.1
 
 @import url("../generatepress/style.css");
 
+/* GAMBS */
+#site-navigation {
+	height: 60px !important;
+}
+
 /* ADAPTATION */
 .inside-header {
 	padding:0;
