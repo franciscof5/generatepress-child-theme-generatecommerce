@@ -10,12 +10,13 @@ Version:        0.1
 
 @import url("../generatepress/style.css");
 
-/* GAMBS */
+/* 
+######GAMBS 
 #site-navigation {
 	height: 60px !important;
 }
 
-/* ADAPTATION */
+####ADAPTATION
 .inside-header {
 	padding:0;
 }
@@ -25,6 +26,7 @@ Version:        0.1
 .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
     background-color: #1e73be;
 }
+*/
 /* NEW ONES*/
 .inside-site-info-lojasdomago-info {
 	font-size:10px;
